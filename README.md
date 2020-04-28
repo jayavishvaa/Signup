@@ -24,19 +24,23 @@ It includes
  
  For installing "Indicative" [click here](https://www.npmjs.com/package/indicative)
 
-## error displaying in the screen
+## Error displaying in the screen
 
 Also all the errors are displayed in the screen with proper validation
 
-## stacknavigation 
+## Navigation between screens 
 
-I have included stack navigator for navigate between screens
+I have used "stacknavigator" from "react-navigation-stack" for navigate between screens
+
+For installing "stacknavigator" [click here](https://reactnavigation.org/docs/stack-navigator/)
+
+and also "appcontainer" [click here](https://reactnavigation.org/docs/app-containers/)
 
 ## Getting data from axios (second page)
 
 Using axios the data from the server is displayed in the second page
 
-## displaying data in super-grid view (card section)
+## Displaying data in super-grid view (card section)
 
 By using super-grid view the data from the URL is displayed in the screen with many card section 
 
