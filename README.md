@@ -52,7 +52,7 @@ For installing "react-native-super-grid" [click here](https://www.npmjs.com/pack
 
 # Display of my signup app
 
-### First page of the app
+## First page of the app
  
  
  
@@ -63,7 +63,7 @@ For installing "react-native-super-grid" [click here](https://www.npmjs.com/pack
 
 
 
-### Second page of the app 
+## Second page of the app 
  
 
 
