@@ -56,4 +56,4 @@ For installing "react-native-super-grid" [click here](https://www.npmjs.com/pack
  
 ### Second page of the app 
  
- ![](https://github.com/jayavishvaa/Signup/blob/master/Screenshot_1588007755.png)
+ <img src = "https://github.com/jayavishvaa/Signup/blob/master/Screenshot_1588007755.png" width="500">
