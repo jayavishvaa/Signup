@@ -3,7 +3,14 @@ Create a sign-up form with validation and navigate the data in super-grid view
 
 ## Sign-up form (regform)
 
-It includes name,roll no, contact no,email, password, confirm password with full validation
+It includes 
+      1.name
+      2.roll no
+      3.contact no,
+      4.email
+      5.password 
+      6.confirm password 
+ with full validation
 
 ## error displaying in the screen
 
