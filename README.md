@@ -28,4 +28,4 @@ Using axios the data from the server is displayed in the second page
 
 By using super-grid view the data from the URL is displayed in the screen with many card section 
 
- 
+ ![](https://github.com/jayavishvaa/Signup/blob/master/Screenshot_1588007755.png)
