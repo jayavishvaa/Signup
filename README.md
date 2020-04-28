@@ -50,6 +50,7 @@ For displaying data in the section card I have used "SectionGrid " from "react-n
 
 For installing "react-native-super-grid" [click here](https://www.npmjs.com/package/react-native-super-grid)
 
+# Display of my signup app
 
 ### First page of the app
  
