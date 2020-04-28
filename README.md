@@ -17,7 +17,12 @@ It includes
  
  For installing "react-native-textinput-effects" [click here](https://www.npmjs.com/package/react-native-textinput-effects)
  
+ ### Indicative validator
  
+ For adding more constraints to the form (ex. "name should not be empty")
+ Here I used "validateAll" from "Indicative/validator" 
+ 
+ For installing "Indicative" [click here](https://www.npmjs.com/package/indicative)
 
 ## error displaying in the screen
 
