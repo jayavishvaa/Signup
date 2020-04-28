@@ -44,8 +44,13 @@ Using axios we can post or get or fetch the data from the server
 
 For installing "axios" [click here](https://www.npmjs.com/package/axios)
 
-## Displaying data in super-grid view (card section)
+## Displaying data in card section view 
 
-By using super-grid view the data from the URL is displayed in the screen with many card section 
+For displaying data in the section card I have used "SectionGrid " from "react-native-super-grid" 
+
+For installing "react-native-super-grid" [click here](https://www.npmjs.com/package/react-native-super-grid)
+
+
+
 
  ![](https://github.com/jayavishvaa/Signup/blob/master/Screenshot_1588007755.png)
