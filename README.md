@@ -58,7 +58,7 @@ For installing "react-native-super-grid" [click here](https://www.npmjs.com/pack
  
  
  
- <img src ="https://github.com/jayavishvaa/Signup/blob/master/WhatsApp%20Image%202020-04-22%20at%205.57.54%20PM.jpeg" width="500">
+ <img src ="https://github.com/jayavishvaa/Signup/blob/master/WhatsApp%20Image%202020-04-22%20at%205.57.54%20PM.jpeg" width="500" justifycontent="center">
  
 
 
