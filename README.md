@@ -11,6 +11,13 @@ It includes
       5.password 
       6.confirm password 
  with full validation
+ 
+ ### react-native-textinput-effects(HOSHI)
+ I am using "HOSHI" to add and style the text inputs from "react-native-textinput-effects"
+ 
+ For installing "react-native-textinput-effects" [click here](https://www.npmjs.com/package/react-native-textinput-effects)
+ 
+ 
 
 ## error displaying in the screen
 
