@@ -4,12 +4,12 @@ Create a sign-up form with validation and navigate the data in super-grid view
 ## Sign-up form (regform)
 
 It includes 
-      * name
-      * roll no
-      * contact no,
-      * email
-      * password 
-      * confirm password 
+      - name
+      - roll no
+      - contact no
+      - email
+      - password 
+      - confirm password 
  with full validation
  
  ### react-native-textinput-effects(HOSHI)
