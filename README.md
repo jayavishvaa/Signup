@@ -3,11 +3,7 @@ Create a sign-up form with validation and navigate the data in super-grid view *
 
 ## Sign-up form (regform)
 
-It includes 
-
-       One
-       2. Two
-       3. Three
+It includes
 
        1. name
        2. roll no
