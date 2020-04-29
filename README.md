@@ -1,5 +1,6 @@
 # Signup
-Create a sign-up form with validation and navigate the data in super-grid view *using react native*
+
+Create a sign-up form with full validation and navigate the data from the server into super-grid view *using react native*
 
 ## Sign-up form (regform)
 
@@ -15,6 +16,7 @@ It includes
  with full validation
  
  ### react-native-textinput-effects(HOSHI)
+
  I am using **"HOSHI"** to add and style the text inputs from **"react-native-textinput-effects"**
  
  For installing "react-native-textinput-effects" [click here](https://www.npmjs.com/package/react-native-textinput-effects):point_left:
@@ -22,6 +24,7 @@ It includes
  ### Indicative validator
  
  For adding more constraints to the form (ex. *"name should not be empty"*)
+
  Here I used **"validateAll"** from **"Indicative/validator"** 
  
  For installing "Indicative" [click here](https://www.npmjs.com/package/indicative):point_left:
