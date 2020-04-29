@@ -5,16 +5,16 @@ Create a sign-up form with validation and navigate the data in super-grid view *
 
 It includes 
 
-       1. One
+       One
        2. Two
        3. Three
 
-      *  name
-      *  roll no
-      *  contact no
-      *  email
-      *  password 
-      *  confirm password 
+       1. name
+       2. roll no
+       3. contact no
+       4. email
+       5. password 
+       6. confirm password 
 
  with full validation
  
