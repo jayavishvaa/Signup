@@ -40,7 +40,9 @@ and also **"appcontainer"** [click here](https://reactnavigation.org/docs/app-co
 
 ## Getting data from the backend server (second page)
 
-Using **"axios"** we can post or get or fetch the data from the server (ex. "Axios.get('https://saarang2021aspirers.herokuapp.com/')")
+Using **"axios"** we can post or get or fetch the data from the server 
+
+(ex. "Axios.get('https://saarang2021aspirers.herokuapp.com/')")
 
 For installing "axios" [click here](https://www.npmjs.com/package/axios):point_left:
 
